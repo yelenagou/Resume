@@ -1,3 +1,10 @@
+# Yelena Gouralnik – SDET QA Engineer
+
+**Location:** Glendale, AZ 85308  
+**Email:** [lenags@gmail.com](mailto:lenags@gmail.com)  
+**Phone:** 480-434-3074  
+**GitHub:** [https://github.com/yelenago](https://github.com/yelenagou) 
+
 ## Sr. Software Automation Engineer  
 **06/2021 to Current**  
 **MyCarrier, LLC - [MyCarrier.io](https://mycarrier.io) - Scottsdale, AZ**  
