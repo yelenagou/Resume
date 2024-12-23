@@ -4,6 +4,7 @@
 **Email:** [lenags@gmail.com](mailto:lenags@gmail.com)  
 **Phone:** 480-434-3074  
 **GitHub:** [https://github.com/yelenago](https://github.com/yelenagou) 
+-  **Work** [https://github.com/YelenaGouralnikEngyra](https://github.com/YelenaGouralnikEngyra)
 
 ## Sr. Software Automation Engineer  
 **06/2021 to Current**  
